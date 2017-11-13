@@ -47,7 +47,7 @@ http://underscorejs.org/underscore-min.js
 app/assets/javascripts/underscore.js
 // underscore-min.jsの中身を貼る
 
-app/views/places/index.html.slim
+app/views/places/index.html.erb
 <div style='width: 800px;'>
   <div id="map" style='width: 800px; height: 400px;'></div>
 </div>

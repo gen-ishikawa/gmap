@@ -44,3 +44,5 @@ group :development, :test do
 end
 
 gem 'gmaps4rails'
+
+gem 'twitter-bootstrap-rails'
