@@ -48,4 +48,3 @@ gem 'gmaps4rails'
 #gem 'twitter-bootstrap-rails'
 
 gem 'bootstrap', '~> 4.0.0.beta2.1'
-
